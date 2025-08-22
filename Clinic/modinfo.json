@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "clinic",
+    "name": "Clinic",
+    "authors": [
+        "Olendril"
+    ],
+    "description": "To be added",
+    "version": "0.0.1",
+    "dependencies": {
+        "game": ""
+    }
+}
